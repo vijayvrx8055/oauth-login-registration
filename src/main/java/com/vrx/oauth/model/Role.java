@@ -13,6 +13,10 @@ public class Role {
     public Role() {
     }
 
+    public Role(String role) {
+        this.role = role;
+    }
+
     public int getId() {
         return id;
     }
@@ -31,9 +35,6 @@ public class Role {
 
     @Override
     public String toString() {
-        return "Role{" +
-                "id=" + id +
-                ", role='" + role + '\'' +
-                '}';
+        return "Role{" + "id=" + id + ", role='" + role + '\'' + '}';
     }
 }

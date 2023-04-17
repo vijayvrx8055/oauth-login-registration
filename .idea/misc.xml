@@ -8,5 +8,8 @@
       </list>
     </option>
   </component>
+  <component name="ProjectResources">
+    <resource url="http://www.thymeleaf.org" location="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2022.3/extResources/d664ad10_web-app_2_3.dtd" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
